@@ -22,9 +22,7 @@ npm install standard -D
 npm install nodemon -D
 npm install express -E
 ```
-Here’s the formatted version of the text:
-
----
+Tmabien puedes usar  ```npm install``` para instalar todas las dependencias.
 
 ### Tecnologías utilizadas
 
